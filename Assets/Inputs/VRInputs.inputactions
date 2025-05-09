@@ -409,7 +409,7 @@
                 {
                     "name": "",
                     "id": "e1adb904-b5aa-432d-b742-6dd02a4fa5f4",
-                    "path": "",
+                    "path": "<XRController>{LeftHand}/{primary2DAxisClick}",
                     "interactions": "",
                     "processors": "",
                     "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;WMR;Meta Quest",

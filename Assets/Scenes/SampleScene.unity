@@ -2953,6 +2953,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Expression Radial
       objectReference: {fileID: 0}
+    - target: {fileID: 4511494660334722064, guid: 0735ab03f27f2114fa669194be7dcd80, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7873159048599919340, guid: 0735ab03f27f2114fa669194be7dcd80, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
