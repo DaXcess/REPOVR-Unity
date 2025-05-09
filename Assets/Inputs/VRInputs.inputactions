@@ -1,0 +1,873 @@
+{
+    "name": "VRInputs",
+    "maps": [
+        {
+            "name": "VR Actions",
+            "id": "45cea0fe-ba56-434a-959b-f251fb7f1b20",
+            "actions": [
+                {
+                    "name": "Movement",
+                    "type": "Value",
+                    "id": "8458dc01-88ae-42c3-a397-34fb5e7511b6",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "db71059c-3513-4725-b0b6-fd25135005f8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Interact",
+                    "type": "Button",
+                    "id": "c47452f2-b85f-4cc7-b893-47b554174c66",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Push",
+                    "type": "Value",
+                    "id": "62806eee-413c-474a-812f-6e6dbff94f71",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Pull",
+                    "type": "Value",
+                    "id": "ed4d185e-ef04-41d3-9a97-d4f34e330ae4",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Menu",
+                    "type": "Button",
+                    "id": "b4342222-ac86-404c-aa75-d31b9a6ffc7f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Chat",
+                    "type": "Button",
+                    "id": "daf1c2db-c45a-4dad-b696-82e788ad6e3f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ChatDelete",
+                    "type": "Button",
+                    "id": "dc2255d7-fef7-4678-b2b4-c44c86f55b39",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Map",
+                    "type": "Button",
+                    "id": "541c1eb5-a3ae-4362-b18a-63b869a83968",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Confirm",
+                    "type": "Button",
+                    "id": "f7bbeadc-a3f4-4c8c-a18a-fcedfbadf3f9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Grab",
+                    "type": "Button",
+                    "id": "b227736d-e5a4-4868-9d64-da7215411777",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Rotate",
+                    "type": "Button",
+                    "id": "c6495723-fe09-453f-a1b2-7ca2d290bba7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Rotation",
+                    "type": "Value",
+                    "id": "ac1f7330-522a-4cee-970a-c85046d7c48d",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Crouch",
+                    "type": "Button",
+                    "id": "623836b9-9fa2-4a87-b314-eb15ad0c19c4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Tumble",
+                    "type": "Button",
+                    "id": "fbf98589-db4a-493d-8c02-c1604e781210",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Sprint",
+                    "type": "Button",
+                    "id": "9a7c9547-6018-4abe-a2c8-77e585b69e98",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Scroll",
+                    "type": "Value",
+                    "id": "922698d1-8442-4d86-b478-c4ad645cc45d",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Back",
+                    "type": "Button",
+                    "id": "02ab8d8e-8a6c-4bda-bdb5-f230a914f8e1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "BackEditor",
+                    "type": "Button",
+                    "id": "987a1701-c46e-40d3-b488-071dce0654af",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SpectateNext",
+                    "type": "Button",
+                    "id": "1196a535-0a2a-4ed6-a8d1-b5a6ec348275",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SpectatePrevious",
+                    "type": "Button",
+                    "id": "b50e28b0-c698-49e7-854f-8d97ab4b3bc9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "PushToTalk",
+                    "type": "Button",
+                    "id": "7768ccff-dcb7-459c-abef-b09063b42c8e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ResetHeight",
+                    "type": "Button",
+                    "id": "32ad7875-c72a-46a2-ba15-53b6549f25fb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Turn",
+                    "type": "Value",
+                    "id": "964cfc9f-becf-4f61-ae44-9ee346ee90ab",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "MapGrabRight",
+                    "type": "Button",
+                    "id": "1e4e32b4-2d12-4a29-bdb5-b2b2f1683c8c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "MapGrabLeft",
+                    "type": "Button",
+                    "id": "0ade76ae-c806-4696-84d1-6d6b87a2ab75",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Inventory1",
+                    "type": "Button",
+                    "id": "83065d52-4e87-4491-915f-ccf917d49f10",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Inventory2",
+                    "type": "Button",
+                    "id": "1c6a224a-00c5-440f-906f-be3fad4edcda",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Inventory3",
+                    "type": "Button",
+                    "id": "5eef9407-1484-4895-9fbf-bbb18726d9c2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Expression1",
+                    "type": "Button",
+                    "id": "2d31482c-76fb-4d32-b30c-45810abc8063",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Expression2",
+                    "type": "Button",
+                    "id": "f056e301-df32-4ec7-b525-3f2c15daa3cd",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Expression3",
+                    "type": "Button",
+                    "id": "6d74538c-5f00-4560-bef6-69fac2747d13",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Expression4",
+                    "type": "Button",
+                    "id": "f2c7a887-39de-4f4c-ad1c-3ec98d889825",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Expression5",
+                    "type": "Button",
+                    "id": "6aae43df-e3a4-4c1c-9a1d-a8c5fc1d57f1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Expression6",
+                    "type": "Button",
+                    "id": "19743eb0-76f2-42df-984f-43c4b7a3ac6c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ExpressionLeft",
+                    "type": "Button",
+                    "id": "28e97183-8260-4486-a979-ae5997ab7903",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ExpressionRight",
+                    "type": "Button",
+                    "id": "a8b0d6cc-eddc-47eb-8914-68c48ceac718",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6f991d76-ce0a-4203-8b88-f43103c19387",
+                    "path": "<XRController>{LeftHand}/primary2DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2d02638a-4776-4c80-abca-b70ab1a9016c",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c4698e84-f9fd-43b8-bc51-2152933357b5",
+                    "path": "<XRController>{RightHand}/gripButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "Interact",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ab44c2f6-3f24-411d-a991-353dec52c364",
+                    "path": "<XRController>{RightHand}/primary2DAxis/up",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "Push",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9a42fc03-eea5-4f5b-a7e7-a14971c46bf0",
+                    "path": "<XRController>{RightHand}/primary2DAxis/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "Pull",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4ad2d54a-28da-439a-adc8-1d29da3499a2",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "Menu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e1adb904-b5aa-432d-b742-6dd02a4fa5f4",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;WMR;Meta Quest",
+                    "action": "Chat",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8f83568c-5378-4d07-accc-3964c5be4f3e",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Meta Quest;WMR;Valve Index;HTC Vive;HP Reverb",
+                    "action": "Map",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "42932cfd-8e4f-4dd3-833c-d8f369b89641",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Meta Quest;WMR;Valve Index;HTC Vive;HP Reverb",
+                    "action": "Confirm",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "95103c8c-cfcf-46ea-b2f1-7edd78da39a5",
+                    "path": "<XRController>{RightHand}/triggerButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "Grab",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6d864927-29ff-4be1-9ab2-21d7db59e3f9",
+                    "path": "<XRController>{LeftHand}/gripButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;WMR;Meta Quest",
+                    "action": "Rotate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "81df8524-9353-4d9a-a0c6-66b84c1d2a85",
+                    "path": "<XRController>{RightHand}/{primary2DAxisClick}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "Crouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d35db145-e512-4fde-8614-6f7bb0606a1d",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;WMR;Meta Quest",
+                    "action": "ChatDelete",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c4afcb3d-048b-40ac-8da2-1dab7e5fe6e9",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "Tumble",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fa6bfa63-b04e-441c-8c78-587ace02bd74",
+                    "path": "<XRController>{LeftHand}/triggerButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "Sprint",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f6cb60a9-50b9-479b-840d-57c43817898e",
+                    "path": "<XRController>{RightHand}/primary2DAxis/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;Meta Quest;WMR",
+                    "action": "Scroll",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "34f26fad-43f3-4b31-ba09-5c9ff376ce3f",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Meta Quest;WMR;Valve Index",
+                    "action": "Back",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d413fb88-076a-49eb-af43-8e17a5b5a0bf",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;WMR;Meta Quest",
+                    "action": "BackEditor",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dfeba25e-66dc-43d0-be04-6902f9d23c29",
+                    "path": "<XRController>{RightHand}/triggerButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;Meta Quest;WMR",
+                    "action": "SpectateNext",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "60262e8f-e77c-42e2-8d18-0b4a6775d819",
+                    "path": "<XRController>{LeftHand}/triggerButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "SpectatePrevious",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a2103c0e-81c3-44da-87ec-0c024c48f5ea",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;Valve Index;HTC Vive;WMR;Meta Quest",
+                    "action": "PushToTalk",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3fcd11d9-4cf5-4aa5-82f5-bd91642f9b52",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;WMR;Valve Index;Meta Quest",
+                    "action": "Inventory1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "49047ae9-0d9c-4747-88d8-068b257aac24",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;WMR;Meta Quest",
+                    "action": "Inventory2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "613c42e8-ee81-4db2-a394-8336e0a126d2",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;WMR;Meta Quest",
+                    "action": "Inventory3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f7efd265-3b9d-45a1-80d0-7d3dc01f44e2",
+                    "path": "<XRController>{RightHand}/primary2DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HTC Vive;HP Reverb;WMR;Meta Quest",
+                    "action": "Rotation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4fff7ed6-0145-4b0b-b600-e828bb35d862",
+                    "path": "<XRController>{LeftHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Meta Quest;WMR;Valve Index",
+                    "action": "ResetHeight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "1D Axis",
+                    "id": "8b60cf8d-46a7-4a20-8e9d-b4b9b4661dfd",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "AxisDeadzone(min=0.25,max=1)",
+                    "groups": "",
+                    "action": "Turn",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "3b03b41e-863e-4170-8f42-e60b37000145",
+                    "path": "<XRController>{RightHand}/{Primary2DAxis}/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "Turn",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "699440e6-d3df-4847-854c-875087b07a0d",
+                    "path": "<XRController>{RightHand}/{Primary2DAxis}/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "Turn",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "37a58ac9-cd38-41cb-b43c-52230b74e4e2",
+                    "path": "<XRController>{RightHand}/gripButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "MapGrabRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "59b556c7-48eb-42bc-b284-969e6913289d",
+                    "path": "<XRController>{LeftHand}/gripButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
+                    "action": "MapGrabLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "30f2eddb-6721-4f7e-8323-9c211ab0a409",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;Meta Quest;WMR",
+                    "action": "Expression1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7ab8bc58-c20a-48f6-a1ca-304ef3d12e8a",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;Meta Quest;WMR",
+                    "action": "Expression2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a31bee9f-0b97-47a8-b5ab-869ef2da3c14",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;Meta Quest;WMR",
+                    "action": "Expression3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d12231b2-b5f9-473a-ac5a-4ce8a18f7980",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;Meta Quest;WMR",
+                    "action": "Expression4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f5d351d3-2a0e-45ac-a3da-03afbbf69091",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;Meta Quest;WMR",
+                    "action": "Expression5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "24704790-9471-44f2-bcf7-d1251cac936e",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;Meta Quest;WMR",
+                    "action": "Expression6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2d509c6a-f131-4489-a59b-0dc96e5eeaa7",
+                    "path": "<XRController>{LeftHand}/triggerButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;WMR;Valve Index;Meta Quest",
+                    "action": "ExpressionLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3ccbd455-4dd9-4be4-9fc2-eec5875d478e",
+                    "path": "<XRController>{RightHand}/triggerButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;Valve Index;HTC Vive;WMR;Meta Quest",
+                    "action": "ExpressionRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Oculus",
+            "bindingGroup": "Oculus",
+            "devices": [
+                {
+                    "devicePath": "<OculusTouchController>{LeftHand}/{Device}",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<OculusTouchController>{RightHand}/{Device}",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        },
+        {
+            "name": "HP Reverb",
+            "bindingGroup": "HP Reverb",
+            "devices": [
+                {
+                    "devicePath": "<ReverbG2Controller>{LeftHand}/{Device}",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<ReverbG2Controller>{RightHand}/{Device}",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        },
+        {
+            "name": "HTC Vive",
+            "bindingGroup": "HTC Vive",
+            "devices": [
+                {
+                    "devicePath": "<ViveController>{LeftHand}/{Device}",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<ViveController>{RightHand}/{Device}",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        },
+        {
+            "name": "Valve Index",
+            "bindingGroup": "Valve Index",
+            "devices": [
+                {
+                    "devicePath": "<ValveIndexController>{LeftHand}/{Device}",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<ValveIndexController>{RightHand}/{Device}",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        },
+        {
+            "name": "WMR",
+            "bindingGroup": "WMR",
+            "devices": [
+                {
+                    "devicePath": "<WMRSpatialController>{LeftHand}/{Device}",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<WMRSpatialController>{RightHand}/{Device}",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        },
+        {
+            "name": "Meta Quest",
+            "bindingGroup": "Meta Quest",
+            "devices": [
+                {
+                    "devicePath": "<QuestProTouchController>{LeftHand}/{Device}",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<QuestProTouchController>{RightHand}/{Device}",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

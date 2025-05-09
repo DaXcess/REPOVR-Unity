@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2542189224154858982
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1839086007369904969}
+  - component: {fileID: 9202646048675797379}
+  m_Layer: 0
+  m_Name: RemappableControls
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1839086007369904969
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2542189224154858982}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9202646048675797379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2542189224154858982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acbe7b54ea8362d45bd911defce07679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controls:
+  - controlName: Movement
+    headerName: Movement
+    currentInput: {fileID: 260089172059608016, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Jump
+    headerName: 
+    currentInput: {fileID: -4431015687601338321, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Crouch
+    headerName: 
+    currentInput: {fileID: -4590246035963862677, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 1
+    defaultToggle: 1
+  - controlName: Sprint
+    headerName: 
+    currentInput: {fileID: -3490083823854029596, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 1
+    defaultToggle: 0
+  - controlName: Tumble
+    headerName: 
+    currentInput: {fileID: -1644416819332107118, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Grab
+    headerName: Grabbing
+    currentInput: {fileID: -91798385500335331, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 1
+    defaultToggle: 0
+  - controlName: Rotate
+    headerName: 
+    currentInput: {fileID: 8118231522780693167, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Push
+    headerName: 
+    currentInput: {fileID: -960869731451661110, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Pull
+    headerName: 
+    currentInput: {fileID: -4009392559049347029, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Grab Map Left
+    headerName: Other
+    currentInput: {fileID: 1631246867470585339, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Grab Map Right
+    headerName: 
+    currentInput: {fileID: -4727870699746860179, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Interact
+    headerName: 
+    currentInput: {fileID: -4554248972156101180, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Chat
+    headerName: 
+    currentInput: {fileID: -5180404856508499109, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Menu
+    headerName: 
+    currentInput: {fileID: -1488882185165783193, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Spectate Next
+    headerName: 
+    currentInput: {fileID: -8805577259997682826, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Spectate Previous
+    headerName: 
+    currentInput: {fileID: -1946330793283077082, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Push to talk
+    headerName: 
+    currentInput: {fileID: 1163559671827812745, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  additionalBindings:
+  - {fileID: 1631246867470585339, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+  - {fileID: -4727870699746860179, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
