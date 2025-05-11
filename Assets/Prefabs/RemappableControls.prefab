@@ -111,9 +111,15 @@ MonoBehaviour:
     bindingIndex: -1
     toggleable: 0
     defaultToggle: 0
-  - controlName: Interact
+  - controlName: Use item
     headerName: 
     currentInput: {fileID: -4554248972156101180, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Reset height
+    headerName: 
+    currentInput: {fileID: 6605640310284592021, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
     bindingIndex: -1
     toggleable: 0
     defaultToggle: 0

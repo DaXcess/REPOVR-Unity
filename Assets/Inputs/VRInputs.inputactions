@@ -442,7 +442,7 @@
                 {
                     "name": "",
                     "id": "95103c8c-cfcf-46ea-b2f1-7edd78da39a5",
-                    "path": "<XRController>{RightHand}/triggerButton",
+                    "path": "<XRController>{RightHand}/triggerPressed",
                     "interactions": "",
                     "processors": "",
                     "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
@@ -497,7 +497,7 @@
                 {
                     "name": "",
                     "id": "fa6bfa63-b04e-441c-8c78-587ace02bd74",
-                    "path": "<XRController>{LeftHand}/triggerButton",
+                    "path": "<XRController>{LeftHand}/triggerPressed",
                     "interactions": "",
                     "processors": "",
                     "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
@@ -541,7 +541,7 @@
                 {
                     "name": "",
                     "id": "dfeba25e-66dc-43d0-be04-6902f9d23c29",
-                    "path": "<XRController>{RightHand}/triggerButton",
+                    "path": "<XRController>{RightHand}/triggerPressed",
                     "interactions": "",
                     "processors": "",
                     "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;Meta Quest;WMR",
@@ -552,7 +552,7 @@
                 {
                     "name": "",
                     "id": "60262e8f-e77c-42e2-8d18-0b4a6775d819",
-                    "path": "<XRController>{LeftHand}/triggerButton",
+                    "path": "<XRController>{LeftHand}/triggerPressed",
                     "interactions": "",
                     "processors": "",
                     "groups": "Oculus;Valve Index;HP Reverb;HTC Vive;WMR;Meta Quest",
@@ -750,7 +750,7 @@
                 {
                     "name": "",
                     "id": "2d509c6a-f131-4489-a59b-0dc96e5eeaa7",
-                    "path": "<XRController>{LeftHand}/triggerButton",
+                    "path": "<XRController>{LeftHand}/triggerPressed",
                     "interactions": "",
                     "processors": "",
                     "groups": "Oculus;HP Reverb;HTC Vive;WMR;Valve Index;Meta Quest",
@@ -761,7 +761,7 @@
                 {
                     "name": "",
                     "id": "3ccbd455-4dd9-4be4-9fc2-eec5875d478e",
-                    "path": "<XRController>{RightHand}/triggerButton",
+                    "path": "<XRController>{RightHand}/triggerPressed",
                     "interactions": "",
                     "processors": "",
                     "groups": "Oculus;HP Reverb;Valve Index;HTC Vive;WMR;Meta Quest",
