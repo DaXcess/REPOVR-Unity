@@ -99,18 +99,6 @@ MonoBehaviour:
     bindingIndex: -1
     toggleable: 0
     defaultToggle: 0
-  - controlName: Grab Map Left
-    headerName: Other
-    currentInput: {fileID: 1631246867470585339, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
-    bindingIndex: -1
-    toggleable: 0
-    defaultToggle: 0
-  - controlName: Grab Map Right
-    headerName: 
-    currentInput: {fileID: -4727870699746860179, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
-    bindingIndex: -1
-    toggleable: 0
-    defaultToggle: 0
   - controlName: Use item
     headerName: 
     currentInput: {fileID: -4554248972156101180, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
