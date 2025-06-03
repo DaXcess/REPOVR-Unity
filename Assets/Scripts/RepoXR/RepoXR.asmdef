@@ -5,8 +5,7 @@
         "Unity.InputSystem",
         "Unity.TextMeshPro",
         "Unity.Animation.Rigging",
-        "Unity.Postprocessing.Runtime",
-        ""
+        "Unity.Postprocessing.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
