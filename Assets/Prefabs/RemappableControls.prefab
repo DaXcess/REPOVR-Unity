@@ -141,6 +141,12 @@ MonoBehaviour:
     bindingIndex: -1
     toggleable: 0
     defaultToggle: 0
+  - controlName: Toggle mute
+    headerName: 
+    currentInput: {fileID: -280638402212714542, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: -1
+    toggleable: 0
+    defaultToggle: 0
   additionalBindings:
   - {fileID: 1631246867470585339, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
   - {fileID: -4727870699746860179, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}

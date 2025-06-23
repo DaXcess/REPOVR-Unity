@@ -204,6 +204,15 @@
                     "initialStateCheck": false
                 },
                 {
+                    "name": "ToggleMute",
+                    "type": "Button",
+                    "id": "53cfc20b-2c8e-4da0-a659-27b722bbb1c8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
                     "name": "ResetHeight",
                     "type": "Button",
                     "id": "32ad7875-c72a-46a2-ba15-53b6549f25fb",
@@ -766,6 +775,17 @@
                     "processors": "",
                     "groups": "Oculus;HP Reverb;Valve Index;HTC Vive;WMR;Meta Quest",
                     "action": "ExpressionRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ee630d58-e209-4037-84a6-05302e1a543c",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;WMR;Meta Quest",
+                    "action": "ToggleMute",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
