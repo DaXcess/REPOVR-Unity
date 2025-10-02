@@ -111,6 +111,18 @@ MonoBehaviour:
     bindingIndex: -1
     toggleable: 0
     defaultToggle: 0
+  - controlName: Turn left
+    headerName: 
+    currentInput: {fileID: 6768154187899545102, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: 0
+    toggleable: 0
+    defaultToggle: 0
+  - controlName: Turn right
+    headerName: 
+    currentInput: {fileID: 6768154187899545102, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+    bindingIndex: 1
+    toggleable: 0
+    defaultToggle: 0
   - controlName: Chat
     headerName: 
     currentInput: {fileID: -5180404856508499109, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}

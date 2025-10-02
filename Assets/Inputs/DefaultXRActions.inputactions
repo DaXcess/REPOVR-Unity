@@ -684,6 +684,74 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Eye Gaze",
+            "id": "554ab534-deee-48f7-a172-25b7f8866b80",
+            "actions": [
+                {
+                    "name": "Position",
+                    "type": "Value",
+                    "id": "ea082d21-a6b7-48af-bba8-5d7a5ed28b67",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Rotation",
+                    "type": "Value",
+                    "id": "c9068855-31ee-423b-9be3-44f992c7bcb1",
+                    "expectedControlType": "Quaternion",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Is Tracked",
+                    "type": "Button",
+                    "id": "0f5a0e85-6986-49ae-8ce2-86c297bb2e66",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1aee0e25-c125-4b6b-9d2c-48ecd0ea8ba1",
+                    "path": "<EyeGaze>/pose/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7716edb0-7eef-47f9-b6fe-3910dbf8c979",
+                    "path": "<EyeGaze>/pose/rotation",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Rotation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3c3ff3f7-e5f6-4542-a914-4e8ab15ba4c5",
+                    "path": "<EyeGaze>/isTracked",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Is Tracked",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": []
