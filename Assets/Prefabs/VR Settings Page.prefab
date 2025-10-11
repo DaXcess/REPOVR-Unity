@@ -2181,7 +2181,7 @@ GameObject:
   - component: {fileID: 5444209750443575179}
   - component: {fileID: 809512179888092961}
   m_Layer: 5
-  m_Name: Menu Button - Performance
+  m_Name: Menu Button - UI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2219,7 +2219,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b0b11cb24ef04343b8e7acfc7ab58d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  buttonTextString: Performance
+  buttonTextString: UI
   customHoverArea: 0
   doButtonEffect: 1
   holdLogic: 1
@@ -2320,7 +2320,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Performance
+          m_StringArgument: UI
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &809512179888092961

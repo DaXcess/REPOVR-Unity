@@ -8,8 +8,12 @@ namespace RepoXR.Player
 
         [Header("Tracking")]
         public Transform head;
+        public Transform leftShoulder;
+        public Transform rightShoulder;
         public Transform leftArm;
         public Transform rightArm;
+        public Transform leftArmCenter;
+        public Transform rightArmCenter;
         public Transform leftArmTarget;
         public Transform rightArmTarget;
         public Transform leftHandAnchor;
