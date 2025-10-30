@@ -21,7 +21,7 @@ Shader "RepoXR/Dashed Outline Cube"
         {
             Blend SrcAlpha OneMinusSrcAlpha
             ZWrite Off
-            Cull Back
+            Cull Off
 
             CGPROGRAM
             #pragma vertex vert
