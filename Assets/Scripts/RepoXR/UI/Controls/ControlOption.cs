@@ -12,6 +12,10 @@ namespace RepoXR.UI.Controls
         {
         }
 
+        public void DeleteBinding()
+        {
+        }
+
         public void SetBindToggle(bool toggle)
         {
         }

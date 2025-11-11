@@ -33,6 +33,7 @@ namespace RepoXR.Player
         public Collider rightHandCollider;
         public Collider mapPickupCollider;
         public Collider lampTriggerCollider;
+        public Collider[] shoulderMapPickupColliders;
 
         public VRInventory inventoryController;
         

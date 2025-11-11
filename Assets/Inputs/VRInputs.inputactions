@@ -72,7 +72,7 @@
                     "name": "ChatDelete",
                     "type": "Button",
                     "id": "dc2255d7-fef7-4678-b2b4-c44c86f55b39",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -90,7 +90,7 @@
                     "name": "Confirm",
                     "type": "Button",
                     "id": "f7bbeadc-a3f4-4c8c-a18a-fcedfbadf3f9",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -99,7 +99,7 @@
                     "name": "Grab",
                     "type": "Button",
                     "id": "b227736d-e5a4-4868-9d64-da7215411777",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -434,17 +434,6 @@
                     "processors": "",
                     "groups": "Oculus;Meta Quest;WMR;Valve Index;HTC Vive;HP Reverb",
                     "action": "Map",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "42932cfd-8e4f-4dd3-833c-d8f369b89641",
-                    "path": "",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Oculus;Meta Quest;WMR;Valve Index;HTC Vive;HP Reverb",
-                    "action": "Confirm",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -786,6 +775,17 @@
                     "processors": "",
                     "groups": "Oculus;HP Reverb;HTC Vive;Valve Index;WMR;Meta Quest",
                     "action": "ToggleMute",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7880d717-42a4-452a-ae95-138fbd4b952b",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Confirm",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
