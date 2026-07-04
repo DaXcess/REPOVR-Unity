@@ -43,6 +43,10 @@ MonoBehaviour:
     m_Key: TUTORIAL.EXPRESSIONS.TEXT
     m_Metadata:
       m_Items: []
+  - m_Id: 21867436612509696
+    m_Key: SETTINGS.VR_SETTINGS
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

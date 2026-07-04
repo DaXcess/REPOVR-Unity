@@ -19,7 +19,7 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 6919544832
-    m_Localized: Grab an Item and deposit it in one of the slots in front of you
+    m_Localized: Grab an item and deposit it in one of the slots in front of you
       to put it in your inventory.
     m_Metadata:
       m_Items: []
@@ -52,6 +52,10 @@ MonoBehaviour:
   - m_Id: 6994638397440
     m_Localized: Press and hold the [chat] button open the expressions wheel. You
       can even mix!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21867436612509696
+    m_Localized: VR Settings
     m_Metadata:
       m_Items: []
   references:

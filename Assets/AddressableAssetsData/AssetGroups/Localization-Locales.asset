@@ -13,14 +13,43 @@ MonoBehaviour:
   m_Name: Localization-Locales
   m_EditorClassIdentifier: 
   m_GroupName: Localization-Locales
-  m_Data:
-    m_SerializedData: []
   m_GUID: 1906dfb5be6bfac4ba7e5171e5c5e2a9
   m_SerializeEntries:
+  - m_GUID: 2983bb65e2476fc479ce923648a4d90b
+    m_Address: Swedish (Sweden) (sv-SE)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 45e1284c5e7493c4886d5b3975fa6326
     m_Address: English (United States) (en-US)
     m_ReadOnly: 1
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5428371af31f9ae488837543788d0b07
+    m_Address: Finnish (Finland) (fi-FI)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87c494334c6570f45add29df31ca8b5a
+    m_Address: Portuguese (Brazil) (pt-BR)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cee9a83691f0abd42afd5a3d970b167f
+    m_Address: Portuguese (Portugal) (pt-PT)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e15de4cdd31e6054f8b9e667e76d706e
+    m_Address: Danish (Denmark) (da-DK)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 21c2b7b1d319ee242be67e1e3e66f5be, type: 2}

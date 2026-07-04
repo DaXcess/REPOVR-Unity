@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Finnish (Finland) (fi-FI)
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-String-Tables-Finnish (Finland) (fi-FI)
+  m_GUID: 5e5b8b2a22329924983f1c2e3301ff78
+  m_SerializeEntries:
+  - m_GUID: 091afe3f0b6d1f947bd81551ae0c8ac5
+    m_Address: HUD RepoXR_fi-FI
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fi-FI
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 21c2b7b1d319ee242be67e1e3e66f5be, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f20a5dd21c01a064086f7b2851982106, type: 2}
+    - {fileID: 11400000, guid: 8bdbbd6f425c77b47ba2e62036aa2b0e, type: 2}

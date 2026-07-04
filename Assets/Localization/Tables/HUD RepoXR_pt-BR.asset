@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HUD RepoXR_pt-BR
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: feec7f8a9e0eaef4581f6aaf60f063a5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6994638397440
+    m_Localized: (pt-BR) Press and hold the [chat] button open the expressions wheel.
+      You can even mix!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6759971282944
+    m_Localized: (pt-BR) Use [grab] while holding your right hand over an item in
+      your inventory, and empty all spots to fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6700546383872
+    m_Localized: (pt-BR) Use [grab] with your right hand to take an item out of your
+      inventory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6627842318336
+    m_Localized: (pt-BR) Grab ([grab]) an item, hold it and deposit it in one of
+      the three slots in front of you. Fill all spots in your inventory to complete
+      the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6919544832
+    m_Localized: (pt-BR) Grab an item and deposit it in one of the slots in front
+      of you to put it in your inventory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6878309376000
+    m_Localized: (pt-BR) Use your left ([MapGrabLeft]) or right ([MapGrabRight])
+      hand and press the respective button to pick up and view the map until you
+      have filled the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6811674468352
+    m_Localized: (pt-BR) Use [MapGrabLeft] or [MapGrabRight] to grab and view the
+      map. The map is <b><u>important</b></u> for navigation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21867436612509696
+    m_Localized: "Configura\xE7\xF5es de VR"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -31,4 +31,8 @@ public class MenuButton : MonoBehaviour
 	public Color colorHover;
 
 	public Color colorClick;
+
+    public void ResizeToText()
+    {
+    }
 }

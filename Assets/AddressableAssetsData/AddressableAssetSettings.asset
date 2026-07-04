@@ -15,23 +15,39 @@ MonoBehaviour:
   m_DefaultGroup: 00f31bdc4e26b3d49add059b051c9e43
   m_currentHash:
     serializedVersion: 2
-    Hash: 8749f90705ca85760fc0e726bea7dac5
+    Hash: 1a751927be346a1bcaf43c46618208bd
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
-  m_BundleLocalCatalog: 0
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
+  m_InternalIdNamingMode: 0
+  m_InternalBundleIdMode: 1
+  m_AssetLoadMode: 0
+  m_BundledAssetProviderType:
+    m_AssemblyName: Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_ClassName: UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider
+  m_AssetBundleProviderType:
+    m_AssemblyName: Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_ClassName: UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider
   m_IgnoreUnsupportedFilesInBuild: 0
   m_UniqueBundleIds: 0
+  m_EnableJsonCatalog: 0
   m_NonRecursiveBuilding: 1
   m_AllowNestedBundleFolders: 0
   m_CCDEnabled: 0
   m_maxConcurrentWebRequests: 3
+  m_UseUWRForLocalBundles: 0
+  m_BundleTimeout: 0
+  m_BundleRetryCount: 0
+  m_BundleRedirectLimit: -1
+  m_SharedBundleSettings: 0
+  m_SharedBundleSettingsCustomGroupIndex: 0
+  m_simulatedLoadDelay: 0.1
   m_ContiguousBundles: 1
   m_StripUnityVersionFromBundleBuild: 0
   m_DisableVisibleSubAssetRepresentations: 0
-  m_ShaderBundleNaming: 0
-  m_ShaderBundleCustomNaming: 
+  m_BuiltInBundleNaming: 0
+  mBuiltInBundleCustomNaming: 
   m_MonoScriptBundleNaming: 0
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
@@ -49,10 +65,13 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 458fc1359da0d8c41ba3c3faf3143deb, type: 2}
   - {fileID: 11400000, guid: ef3b213b989f00f498cce731a87f51df, type: 2}
   - {fileID: 11400000, guid: f964db6d7deac8b49a6815dd0c1ad945, type: 2}
+  - {fileID: 11400000, guid: 35e7054a54cec9245955f76131dfbd7d, type: 2}
   - {fileID: 11400000, guid: 2509d01813af096479035fd454c7cfeb, type: 2}
+  - {fileID: 11400000, guid: d347bf006312a60458aa24cc6418c5d7, type: 2}
+  - {fileID: 11400000, guid: b3411f590fa3d254ab2fea2f62e73958, type: 2}
+  - {fileID: 11400000, guid: 89c45d56bfc6ad94a909a5168610f816, type: 2}
+  - {fileID: 11400000, guid: d52e87199aa02774e9014a9e34731d5b, type: 2}
   m_BuildSettings:
-    m_CompileScriptsInVirtualMode: 0
-    m_CleanupStreamingAssetsAfterBuilds: 1
     m_LogResourceManagerExceptions: 1
     m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
   m_ProfileSettings:
@@ -66,9 +85,9 @@ MonoBehaviour:
       - m_Id: 38663a261e2e3004ab5853457a74ec54
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: 98284e96ad2a8b94ab195dfe29bca7c2
-        m_Value: ServerData/[BuildTarget]
+        m_Value: 'ServerData/[BuildTarget]'
       - m_Id: dd027b567ff63e34cac1152dc1c07f7f
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: 'http://[PrivateIpAddress]:[HostingServicePort]'
       - m_Id: f69909fe0c3add8458954d5221fdff2a
         m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
     - m_InheritedParent: 
@@ -80,11 +99,11 @@ MonoBehaviour:
       - m_Id: 38663a261e2e3004ab5853457a74ec54
         m_Value: '{RepoXR.Assets.AssetCollection.AddressablesPath}'
       - m_Id: 98284e96ad2a8b94ab195dfe29bca7c2
-        m_Value: ServerData/[BuildTarget]
+        m_Value: 'ServerData/[BuildTarget]'
       - m_Id: dd027b567ff63e34cac1152dc1c07f7f
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: 'http://[PrivateIpAddress]:[HostingServicePort]'
       - m_Id: f69909fe0c3add8458954d5221fdff2a
-        m_Value: Addressables/Output/[BuildTarget]
+        m_Value: 'Addressables/Output/[BuildTarget]'
     m_ProfileEntryNames:
     - m_Id: 1fec43f2bc7b78442915926c1e9ef250
       m_Name: BuildTarget
@@ -109,6 +128,11 @@ MonoBehaviour:
     - Locale-en
     - Preload
     - Locale-en-US
+    - Locale-da-DK
+    - Locale-fi-FI
+    - Locale-pt-BR
+    - Locale-pt-PT
+    - Locale-sv-SE
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 6a25d65f6612fe34e9548746e905cf01, type: 2}
@@ -116,16 +140,9 @@ MonoBehaviour:
   m_CertificateHandlerType:
     m_AssemblyName: 
     m_ClassName: 
-  m_ActivePlayerDataBuilderIndex: 3
+  m_ActivePlayerDataBuilderIndex: 2
   m_DataBuilders:
   - {fileID: 11400000, guid: 2cc3bbe5ac9f0ae428abc7ce78598ff6, type: 2}
-  - {fileID: 11400000, guid: 6c344ac8fff18ef4eb413f6374426612, type: 2}
   - {fileID: 11400000, guid: c9d4871fd57849a4288dadb7727aa1dc, type: 2}
   - {fileID: 11400000, guid: 5df5d9f4ead597440b7900d8dcc0dd3c, type: 2}
   m_ActiveProfileId: 0ee62fb73455b7b47a0fb0b1c9f95f18
-  m_HostingServicesManager:
-    m_HostingServiceInfos: []
-    m_Settings: {fileID: 11400000}
-    m_NextInstanceId: 0
-    m_RegisteredServiceTypeRefs: []
-    m_PingTimeoutInMilliseconds: 5000
