@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Localization-String-Tables-Portuguese (Portugal) (pt-PT)
   m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
   m_GroupName: Localization-String-Tables-Portuguese (Portugal) (pt-PT)
-  m_GUID: b5555645efc745c4990a2a8679b67950
+  m_GUID: 44c234ea79651d442966660af22af8a0
   m_SerializeEntries:
   - m_GUID: 74e52dfa9978f22449e3e6a5f01b7fbd
-    m_Address: HUD RepoXR_pt-PT
+    m_Address: RepoXR_pt-PT
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-pt-PT

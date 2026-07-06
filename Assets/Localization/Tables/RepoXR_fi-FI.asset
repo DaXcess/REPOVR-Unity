@@ -1,0 +1,356 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: RepoXR_fi-FI
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: fi-FI
+  m_SharedData: {fileID: 11400000, guid: feec7f8a9e0eaef4581f6aaf60f063a5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6994638397440
+    m_Localized: "Paina ja pid\xE4 [chat]-painiketta avataksesi ilmevalikon. Voit
+      jopa yhdistell\xE4 niit\xE4!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6759971282944
+    m_Localized: "K\xE4yt\xE4 [grab]-painiketta pit\xE4ess\xE4si oikeaa k\xE4tt\xE4si
+      esineen p\xE4\xE4ll\xE4 repussasi, ja tyhjenn\xE4 kaikki paikat t\xE4ytt\xE4\xE4ksesi
+      edistymispalkin!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6700546383872
+    m_Localized: "K\xE4yt\xE4 [grab]-painiketta oikealla k\xE4dell\xE4si ottaaksesi
+      esineen repustasi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6627842318336
+    m_Localized: "Nappaa ([grab]) esine, pid\xE4 sit\xE4 ja aseta se yhteen kolmesta
+      edess\xE4si olevasta paikasta. T\xE4yt\xE4 kaikki paikat repussasi t\xE4ytt\xE4\xE4ksesi
+      edistymispalkin!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6919544832
+    m_Localized: "Nappaa esine ja aseta se yhteen edess\xE4si olevista paikoista
+      laittaaksesi sen reppuusi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6878309376000
+    m_Localized: "K\xE4yt\xE4 vasenta ([MapGrabLeft]) tai oikeaa ([MapGrabRight])
+      k\xE4tt\xE4si ja paina vastaavaa painiketta noutaaksesi ja tarkastellaksesi
+      karttaa, kunnes olet t\xE4ytt\xE4nyt edistymispalkin!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6811674468352
+    m_Localized: "K\xE4yt\xE4 [MapGrabLeft] tai [MapGrabRight] napata ja tarkastella
+      karttaa. Kartta on <b><u>t\xE4rke\xE4</b></u> navigoinnin kannalta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21867436612509696
+    m_Localized: VR-asetukset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22044023144308736
+    m_Localized: Yleiset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22049970113732608
+    m_Localized: "K\xE4ytt\xF6liittym\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22047577414295552
+    m_Localized: Pelin kulku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22052517079670784
+    m_Localized: "Sy\xF6te"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22052848484212736
+    m_Localized: "Render\xF6inti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22053301024448512
+    m_Localized: Takaisin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22074603277901824
+    m_Localized: "Pois p\xE4\xE4lt\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22075258092642304
+    m_Localized: "Pois p\xE4\xE4lt\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22075391442149376
+    m_Localized: "P\xE4\xE4ll\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22078548968726528
+    m_Localized: "Ota VR k\xE4ytt\xF6\xF6n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22078782914420736
+    m_Localized: "Ota k\xE4ytt\xF6\xF6n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22078981502132224
+    m_Localized: "Poista k\xE4yt\xF6st\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22088557366599680
+    m_Localized: "VR-l\xE4sn\xE4olo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22088697208889344
+    m_Localized: Piilotettu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22088808274059264
+    m_Localized: "N\xE4ytetty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22091644969934848
+    m_Localized: "V\xE4hennetty liike"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22091773470826496
+    m_Localized: "Pois p\xE4\xE4lt\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22091897743859712
+    m_Localized: "P\xE4\xE4ll\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22093986809241600
+    m_Localized: Roomscale-kyyristys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22094261859115008
+    m_Localized: "Pois p\xE4\xE4lt\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22094417006419968
+    m_Localized: "P\xE4\xE4ll\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22097649179025408
+    m_Localized: "Dominantti k\xE4si"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22097777864466432
+    m_Localized: Vasen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22097878800392192
+    m_Localized: Oikea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22098102818168832
+    m_Localized: "K\xE4sivarret"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22098208959225856
+    m_Localized: Kiinnitetty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22098285782097920
+    m_Localized: Irrotettu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22098593774034944
+    m_Localized: Haptinen palaute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22098679685963776
+    m_Localized: Kaikki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22098705975861248
+    m_Localized: "Pois p\xE4\xE4lt\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22098728633491456
+    m_Localized: "V\xE4hennetty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22099144171577344
+    m_Localized: Katseen seuranta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22099249192755200
+    m_Localized: "Poistettu k\xE4yt\xF6st\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22099369485393920
+    m_Localized: "K\xE4yt\xF6ss\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22112427662368768
+    m_Localized: HUDin korkeus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22112610932482048
+    m_Localized: HUDin toissijainen korkeus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22112908417687552
+    m_Localized: "Canvasin et\xE4isyys"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22115813589770240
+    m_Localized: "K\xE4\xE4ntymisen tarjoaja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22116019328770048
+    m_Localized: "Nykyk\xE4yt\xF6s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22116193266556928
+    m_Localized: "Pehme\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22116334664933376
+    m_Localized: "Poistettu k\xE4yt\xF6st\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22117353008390144
+    m_Localized: "Pehme\xE4n k\xE4\xE4nn\xF6ksen nopeus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22119840255827968
+    m_Localized: "Pehme\xE4n k\xE4\xE4nn\xF6ksen tila"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22120066643386368
+    m_Localized: Analoginen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22120366485790720
+    m_Localized: Normalisoitu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22121191899652096
+    m_Localized: "Nykyk\xE4\xE4nn\xF6ksen asteet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22124226868666368
+    m_Localized: Liikkumistila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22124238801461248
+    m_Localized: Analoginen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22124262365061120
+    m_Localized: Normalisoitu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22125454604361728
+    m_Localized: Ajoneuvon suunta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22125794129076224
+    m_Localized: "K\xE4si"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22125903197757440
+    m_Localized: "P\xE4\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22127991155843072
+    m_Localized: "Render\xF6intiresoluutio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22128502194036736
+    m_Localized: Kartan vinjetointi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22128835309854720
+    m_Localized: "P\xE4\xE4ll\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22128793018687488
+    m_Localized: "Pois p\xE4\xE4lt\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22130749212712960
+    m_Localized: Katsojakamera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22130849116839936
+    m_Localized: "Pois p\xE4\xE4lt\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22130987235270656
+    m_Localized: "P\xE4\xE4ll\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22131282518466560
+    m_Localized: Kameran kuvataajuus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22131445974687744
+    m_Localized: Kameran FOV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22131576966995968
+    m_Localized: Kameran pehmennys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22140940561932288
+    m_Localized: "Is\xE4nn\xE4lt\xE4 puuttuu VR-modi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22141160662228992
+    m_Localized: "Is\xE4nn\xE4ll\xE4 ei n\xE4yt\xE4 olevan VR-modia asennettuna.\n\nJotkin
+      VR-ominaisuudet eiv\xE4t v\xE4ltt\xE4m\xE4tt\xE4 toimi tai niiden toimivuus
+      on heikentynyt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22141383878893568
+    m_Localized: "Se on, mit\xE4 se on"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22142401945526272
+    m_Localized: "RepoXR yritti k\xE4ynnist\xE4\xE4 pelin VR-tilassa, mutta alustuksen
+      aikana tapahtui virhe.\n\nPystyt silti pelaamaan peli\xE4 ja k\xE4ytt\xE4m\xE4\xE4n
+      t\xE4m\xE4n modin ominaisuuksia, mutta et ole VR-tilassa.\n\nVoit poistaa VR:n
+      k\xE4yt\xF6st\xE4 asetuksista, jos haluat est\xE4\xE4 t\xE4m\xE4n virheen tulevaisuudessa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22142412309651456
+    m_Localized: "Selv\xE4 juttu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22142419381248000
+    m_Localized: "VR-k\xE4ynnistys ep\xE4onnistui"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22153268758044672
+    m_Localized: VR-kehitysversio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22153422554783744
+    m_Localized: Anna minun pelata!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22153575793680384
+    m_Localized: "K\xE4yt\xE4t RepoXR:n kehitysversiota. T\xE4m\xE4 versio ei ole
+      valmis ja se saattaa sis\xE4lt\xE4\xE4 bugeja tai muita odottamattomia \"ominaisuuksia\".\n\nJatka
+      varovasti."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

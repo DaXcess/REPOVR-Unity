@@ -15,8 +15,8 @@ MonoBehaviour:
   m_GroupName: Localization-Locales
   m_GUID: 1906dfb5be6bfac4ba7e5171e5c5e2a9
   m_SerializeEntries:
-  - m_GUID: 2983bb65e2476fc479ce923648a4d90b
-    m_Address: Swedish (Sweden) (sv-SE)
+  - m_GUID: 17090dc07a3440b48b784fa0acaf3d88
+    m_Address: Portuguese (Brazil) (pt-BR)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
@@ -33,20 +33,20 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 87c494334c6570f45add29df31ca8b5a
-    m_Address: Portuguese (Brazil) (pt-BR)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: cee9a83691f0abd42afd5a3d970b167f
-    m_Address: Portuguese (Portugal) (pt-PT)
+  - m_GUID: 674b809f02f6cb249ad35ce530ce114a
+    m_Address: Swedish (Sweden) (sv-SE)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e15de4cdd31e6054f8b9e667e76d706e
     m_Address: Danish (Denmark) (da-DK)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e590b48c7377a344da64d633b5e2e80e
+    m_Address: Portuguese (Portugal) (pt-PT)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale

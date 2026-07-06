@@ -13,12 +13,10 @@ MonoBehaviour:
   m_Name: Localization-String-Tables-English (United States) (en-US)
   m_EditorClassIdentifier: 
   m_GroupName: Localization-String-Tables-English (United States) (en-US)
-  m_Data:
-    m_SerializedData: []
   m_GUID: 83511fdb59a613042b58ad92341602b6
   m_SerializeEntries:
   - m_GUID: ee34113363b58c74d820c37829dbdc8a
-    m_Address: HUD RepoXR_en-US
+    m_Address: RepoXR_en-US
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en-US

@@ -16,7 +16,7 @@ MonoBehaviour:
   m_GUID: f5af67f4043be864c9a11947cd622fcf
   m_SerializeEntries:
   - m_GUID: 6cde4dd2f66b12d41a7b36ddb4181b21
-    m_Address: HUD RepoXR_da-DK
+    m_Address: RepoXR_da-DK
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-da-DK

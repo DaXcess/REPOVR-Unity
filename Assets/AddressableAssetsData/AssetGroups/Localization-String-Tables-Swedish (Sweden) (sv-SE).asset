@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Localization-String-Tables-Swedish (Sweden) (sv-SE)
   m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
   m_GroupName: Localization-String-Tables-Swedish (Sweden) (sv-SE)
-  m_GUID: 894dbcad013b7954b8fb715bd1e80923
+  m_GUID: 6c2d4d6b9693d1d4dacd9ba40b83c5d0
   m_SerializeEntries:
   - m_GUID: 3f4d09d11e694a54ab4a3ddbd1fd332a
-    m_Address: HUD RepoXR_sv-SE
+    m_Address: RepoXR_sv-SE
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-sv-SE

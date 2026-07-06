@@ -13,12 +13,100 @@ MonoBehaviour:
   m_Name: Default Local Group
   m_EditorClassIdentifier: 
   m_GroupName: Default Local Group
-  m_Data:
-    m_SerializedData: []
   m_GUID: 00f31bdc4e26b3d49add059b051c9e43
   m_SerializeEntries:
+  - m_GUID: 021348f571e6380429b36999021a720d
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.EYE_TRACKING.DISABLED
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0701ac8952cb2c24b938485b27b3efd1
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.SPECTATOR_CAMERA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 07fbf7643230fca43919a41f543316ab
     m_Address: LocalizedAsset XR - TUTORIAL.INVENTORY_EMPTY.TEXT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09ee3254572b30e4aa346569bdce7134
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.CAMERA_FOV
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c1bb15edd0a24f41964d32ca279c84e
+    m_Address: LocalizedAsset XR - SETTINGS.VR_SETTINGS.GENERAL
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d623a437f21e4a4cb3a18088e179fdc
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.CAMERA_SMOOTHING
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10c589f44a693294db51c13e9d379092
+    m_Address: LocalizedAsset XR - POPUP.MISSING_MOD.HEADER
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11efb3853a265294c8c10953504c2151
+    m_Address: LocalizedAsset XR - POPUP.DEV_BUILD.HEADER
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1507c6c9f5a510044bdaad8e38fe1bbc
+    m_Address: LocalizedAsset XR - POPUP.MISSING_MOD.BODY
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 152dac1999b20a04985fb1d8eb32e870
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.MOVEMENT_MODE.ANALOG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b4d18afc1ff0a24c892ef07e3894d96
+    m_Address: LocalizedAsset XR - SETTINGS.VR_SETTINGS.GAMEPLAY
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22d086d070916414780290104686d11c
+    m_Address: LocalizedAsset XR - SETTINGS.VR_SETTINGS.INPUT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26c59e3567b121f499e79b498c45715c
+    m_Address: LocalizedAsset XR - SETTINGS.VR_SETTINGS.RENDERING
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a3b96926473cd041a387c569c801a53
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.ARMS.DETACHED
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d4210b442389c64b9082e4059d76ccc
+    m_Address: LocalizedAsset XR - SETTINGS.VR_SETTINGS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30cd349842154e04498c0270c6f25d5b
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.VEHICLE_DIRECTION
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d15b758a8d05a34080fc93e376c0e0b
+    m_Address: LocalizedAsset XR - GENERIC.BACK
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e939f4a8b95e0c408ebb44bc350ae50
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.EYE_TRACKING
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 446847c9c20ad684484444f54c6390e6
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.RENDER_RESOLUTION
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -27,8 +115,123 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b8d7ea51c2bf6c42a9ec0f945713648
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.SMOOTH_TURN_MODE.NORMALIZED
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ba4c7d2456e9c04a84403bc915458cb
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.VR_PRESENCE.HIDDEN
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ca4138a669d2f9498db37be9b6872e8
+    m_Address: LocalizedAsset XR - SETTINGS.VR_SETTINGS.INTERFACE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5084fd4afcfd33240b1c44adbddb74e5
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.TURN_PROVIDER
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51e4586ace5d32e429f26ebce8e2763a
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.HUD_HEIGHT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52d0a2589880b5648b2b6cdcff86e51e
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.VIGNETTE.ON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 569df0a39edf0e3459d7a84f93148e28
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.HAPTIC_FEEDBACK.OFF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 596edf17afe62884ebbcf9480b18c5bb
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.REDUCED_MOTION
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b36dd7bdeca4fb47bb219ac917a4a5a
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.EXTENDED_DEBUGGING.ON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 620c20e40a154cb4cbd48417231370de
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.DOMINANT_HAND.RIGHT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6210acb3a0803b54cb42bcd49b413e82
+    m_Address: LocalizedAsset XR - POPUP.MISSING_MOD.BUTTON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 646207f4814485e47ad60119eb4aab28
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.CAMERA_FRAMERATE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 652266a2f85a9a04e80404577c3a60d2
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.VR_PRESENCE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6836c794b1c17e049b03c746703a12b4
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.ROOMSCALE_CROUCH.ON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6977e352ef73816409f412390b7406c6
     m_Address: LocalizedAsset XR - TUTORIAL.INVENTORY_EMPTY.DUMMY_TEXT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 698329cb4f31057488618814556a07cd
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.SPECTATOR_CAMERA.OFF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6da50f46545f5df4ca786d877251f38e
+    m_Address: LocalizedAsset XR - POPUP.STARTUP_FAIL.BUTTON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e67254e7c4b6434ebe737eac2200d66
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.VEHICLE_DIRECTION.HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ea2c37e86be116498f7da8ee390455f
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.ARMS.ATTACHED
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f16b3f53cf24a24b84a322ba661dc44
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.SMOOTH_TURN_MODE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f370341118b387418cef6ad06381a62
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.ROOMSCALE_CROUCH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74fd5e24ae677f144b1e47e03d6afb1d
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.SMOOTH_TURN_MODE.ANALOG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82ae95fe760169e42a2da762ece85f99
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.ENABLE_VR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bc08507a51400c44a1b4d2a93d7d375
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.HAPTIC_FEEDBACK.REDUCED
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -37,8 +240,48 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d2ded11d613ad346a2d5dada7138de6
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.VR_PRESENCE.SHOWN
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9048d6bacc499c547b48bc880646ac10
     m_Address: LocalizedAsset XR - TUTORIAL.EXPRESSIONS.TEXT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 913d011fdb7115e4685144b4b8d84bc3
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.MOVEMENT_MODE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 958c32c278c4f5c4cb9521b74984f129
+    m_Address: LocalizedAsset XR - POPUP.DEV_BUILD.BUTTON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97c47aa478bd88f40b7e2060bb149aee
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.MOVEMENT_MODE.NORMALIZED
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a45d7322795efd48b2edaadc6ba40d4
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.CANVAS_DISTANCE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b734ae33dfd7734ebb86d6b6b9c735b
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.VIGNETTE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cf34e8d9ab42984bbf6b80ed7ed66bc
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.SNAP_TURN_DEGREES
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ea4e72ed8a626f44bf1f2656ac4afab
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.ENABLE_VR.ENABLE
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -47,8 +290,123 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4b2442d161cd5142a4b2801b108d5cc
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.ENABLE_VR.DISABLE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5330f60c5d830146ab131f1187fda73
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.TURN_PROVIDER.SNAP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6a3a0a9458b0ed418c2530cdd546406
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.TURN_PROVIDER.SMOOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8921865c9d8c9d4a89365379f155cac
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.ROOMSCALE_CROUCH.OFF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac8742122acd73d49ba042221c1c9250
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.ARMS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6d6baaea9c8cb8448d8c1fdbd9ad3f7
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.EXTENDED_DEBUGGING
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c530970dbfc93aa4c8b1f26ef613eecf
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.HAPTIC_FEEDBACK.ALL
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c924e9b9b0505ba40a2e106872b3ab0c
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.DOMINANT_HAND.LEFT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9b04f80e937a1143bf9c897f32417e8
+    m_Address: LocalizedAsset XR - POPUP.STARTUP_FAIL.HEADER
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca423783012804949a419ec50df8e1d4
+    m_Address: LocalizedAsset XR - POPUP.STARTUP_FAIL.BODY
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d43c58ca9352be84da8746f73a91801d
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.DOMINANT_HAND
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d504ab6d19610204188c7aea8e3733cb
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.TURN_PROVIDER.DISABLED
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d95fdc3341e1daf4db592ee1bf0f0ead
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.EYE_TRACKING.ENABLED
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daaf7e4c1594ab74ab2379c259a30c01
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.VIGNETTE.OFF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dbae1366d88a19d43affdcb7b5ff22bf
     m_Address: LocalizedAsset XR - TUTORIAL.INVENTORY_FILL.TEXT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e07817b69f1dc94418ad7e16b1213d6a
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.SMOOTH_TURN_SPEED
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0a736cc2bfc9444da8aa65af785621f
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.VEHICLE_DIRECTION.HAND
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3282262d28ac4b41a7029bd2e50bf1d
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.HUD_SECONDARY_HEIGHT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f438eed8350eca840939ff173d108ff7
+    m_Address: LocalizedAsset XR - POPUP.DEV_BUILD.BODY
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6a16e3d5e4cc524da8e9acfaf5061fb
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.REDUCED_MOTION.OFF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6e6f8a2197716c45b3a395ec1b2057f
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.HAPTIC_FEEDBACK
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f895e7f66d3250c438a1a64b71d9e8ad
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.REDUCED_MOTION.ON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff998452154b599408acf9f25cbaa834
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.EXTENDED_DEBUGGING.OFF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffe6120cfe7178548afa8fe5ee7192d7
+    m_Address: LocalizedAsset XR - SETTINGS.OPTION.SPECTATOR_CAMERA.ON
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
